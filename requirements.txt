@@ -84,5 +84,5 @@ webencodings
 widgetsnbextension
 wincertstore
 wordcloud
-pip
+pip3
 python==3.9.6
