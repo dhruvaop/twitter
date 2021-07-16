@@ -85,4 +85,4 @@ widgetsnbextension
 wincertstore
 wordcloud
 pip
-python3.9
+python==3.9
